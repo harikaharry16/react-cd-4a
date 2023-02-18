@@ -1,0 +1,40 @@
+/* Write your CSS here */
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #f1f5f8;
+  height: 100vh;
+}
+.head {
+  font-size: 35px;
+  font-family: 'Roboto';
+  color: black;
+}
+.zero {
+  font-size: 35px;
+  font-family: 'Roboto';
+  color: #c20a72;
+  padding-left: 6px;
+  padding-right: 6px;
+}
+.bttn {
+  align-self: center;
+}
+.para {
+  font-size: 20px;
+  font-family: 'Roboto';
+  color: black;
+}
+.button {
+  background-color: #007bff;
+  color: white;
+  font-size: 12px;
+  text-align: center;
+  border-width: 0px;
+  height: 35px;
+  width: 80px;
+  border-radius: 10px;
+  cursor: pointer;
+}
